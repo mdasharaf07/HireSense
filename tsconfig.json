@@ -1,8 +1,6 @@
 {
   "include": [
     "**/*",
-    "**/.server/**/*",
-    "**/.client/**/*",
     ".react-router/types/**/*"
   ],
   "compilerOptions": {
